@@ -43,7 +43,4 @@ The trained model achieves competitive accuracy on the test dataset. Detailed re
 2. Install the required dependencies.
 3. Run the provided Python script to train and evaluate the model.
 
-## License
-
-This project is open-source and available under the MIT License.
 
