@@ -35,7 +35,7 @@ The model is trained using mini-batch gradient descent with the Adam optimizer. 
 
 ## Results
 
-The trained model achieves competitive accuracy on the test dataset. Detailed results, including a confusion matrix and classification report, are provided in the code.
+The trained model achieves competitive accuracy on the test dataset. Detailed results, including a confusion matrix and which is provided in the code.
 
 ## Usage
 
