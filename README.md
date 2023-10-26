@@ -26,7 +26,7 @@ The dataset used is the Fashion MNIST dataset, which contains 60,000 training im
 ## Model Architecture
 
 The CNN model consists of:
-- Two convolutional layers with ReLU activation.
+- Two convolutional layers.
 - A dense layer for classification.
 
 ## Training and Evaluation
